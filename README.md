@@ -29,7 +29,9 @@ Before running the application, you need to have Docker installed on your machin
 1. Run the Docker container:
 
    ```
-   docker run -p 3000:3000 your-image-name
+   docker-compose up
+
+
    ```
 2. Access the application in your web browser:
 
